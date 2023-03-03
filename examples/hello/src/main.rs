@@ -66,6 +66,7 @@ fn hello(lang: Option<Lang>, opt: Options<'_>) -> String {
     if let Some(name) = opt.name {
         greeting.push_str(", ");
         greeting.push_str(name);
+        //comment for commit
     }
 
     greeting.push('!');
