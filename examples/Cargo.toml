@@ -15,7 +15,7 @@ members = [
   "templating",
   "testing",
   "tls",
-
+  "learningjs",
   "pastebin",
   "todo",
   "chat",
